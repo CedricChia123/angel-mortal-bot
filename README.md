@@ -23,12 +23,12 @@ username3,username1,username2
 
 ## Environment variables
 
-ANGEL_BOT_TOKEN = os.environ['ANGEL_BOT_TOKEN']
-PLAYERS_FILENAME = os.environ['PLAYERS_FILENAME']
-CHAT_ID_JSON = os.environ['CHAT_ID_JSON']
-ANGEL_ALIAS = os.environ['ANGEL_ALIAS']
-MORTAL_ALIAS = os.environ['MORTAL_ALIAS']
+Have a .env file with the following:
+ANGEL_BOT_TOKEN=
+ANGEL_ALIAS=Angel
+MORTAL_ALIAS=Mortal
 
 ## Useful references
 https://python-telegram-bot.readthedocs.io/en/stable/telegram.bot.html#telegram.Bot.sendAnimation
 https://python-telegram-bot.readthedocs.io/en/stable/telegram.message.html#telegram.Message
+
