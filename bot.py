@@ -3,7 +3,6 @@ import player
 import messages
 import datetime
 import collections
-
 import config
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardRemove
